@@ -1,7 +1,6 @@
 # tz_atcoder_nibbles
 
 
-https://nibbles.drakvuf.re/doc/main/
 
 ```
 +_" "=3;@
