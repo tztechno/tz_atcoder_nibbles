@@ -1,6 +1,9 @@
 # tz_atcoder_nibbles
 
 
+https://qiita.com/i_taku_/items/e85f9f4ea482e35dfadd
+
+https://qiita.com/i_taku_/items/623506d5e6ac2b41c1b9
 
 ```
 +_" "=3;@
