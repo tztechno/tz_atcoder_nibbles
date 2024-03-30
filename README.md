@@ -7,6 +7,9 @@ https://qiita.com/i_taku_/items/623506d5e6ac2b41c1b9
 
 http://www.golfscript.com/nibbles/quickref.html
 
+
+nibblesでは入力1つ目の数字を「$」、2つ目の数字を「;$」で受け取れる。
+
 ```
 +_" "=3;@
 
